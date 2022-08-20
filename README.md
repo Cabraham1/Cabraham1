@@ -1,5 +1,4 @@
-<h2> Hi, I'm Christopher Abraham! 👋 👩🏾‍💻 <img src="https://media1.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47skzjlffj8s908hcg3x60q5hxz7i5gj8ienljgwf2&rid=giphy.gif&ct=g" height="70"></h2>
-
+<h2> Hi, I'm Christopher Abraham! 👋 👩🏾‍💻>
 <p><em>A multifaceted Asset Ready to Meet Your Team
 I have a strong JavaScript skillset with a focus on React & Ruby. I have always stayed relevant while embracing new technologies. I can quickly learn new ideas and trends in technology. My background is in Web Applications with over 3 years of experience of designing, developing, coding and maintaining such systems.
   
