@@ -5,7 +5,7 @@ I have a strong JavaScript skillset with a focus on React & Ruby. I have always 
 A little more about me...
 
 ```javascript
-const okorojiVictor = {
+const christopherAbraham = {
   openTowork: true,
   lookingFor: "Front-End developer";
   pronouns: ["he", "his"],
