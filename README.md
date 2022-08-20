@@ -14,7 +14,7 @@ const abrahamChristopher= {
   Tailwind CSS],
   askMeAbout: [Football, Movies,Adeventures,],
   challenge: "I am currently working on javascript and i am learning Ruby on Rails",
-  funFacts: ['I literally envision the coding aspect of virtually everything'],
+  funFacts: ['i can be very quick in switching from working mode to play mode'],
   reachMe: 'christopherabraham8@gmail.com'
 }
 ```
