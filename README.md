@@ -1,11 +1,12 @@
-<h2> Hi, I'm Christopher Abraham! 👋 👩🏾‍💻 <img src="https://media1.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47skzjlffj8s908hcg3x60q5hxz7i5gj8ienljgwf2&rid=giphy.gif&ct=g" width="70"></h2>
+<h2> Hi, I'm Christopher Abraham! 👋 👩🏾‍💻 <img src="https://media1.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47skzjlffj8s908hcg3x60q5hxz7i5gj8ienljgwf2&rid=giphy.gif&ct=g" height="70"></h2>
+
 <p><em>A multifaceted Asset Ready to Meet Your Team
 I have a strong JavaScript skillset with a focus on React & Ruby. I have always stayed relevant while embracing new technologies. I can quickly learn new ideas and trends in technology. My background is in Web Applications with over 3 years of experience of designing, developing, coding and maintaining such systems.
   
 A little more about me...
 
 ```javascript
-const christopherAbraham = {
+const abrahamChristopher= {
   openTowork: true,
   lookingFor: "Front-End developer";
   pronouns: ["he", "his"],
@@ -22,6 +23,9 @@ const christopherAbraham = {
 
 | <a href="https://github.com/Cabraham1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cabraham1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cabraham's github stats" /></a> | <a href="https://github.com/Cabraham1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabraham1&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cabraham1&theme=radical" alt="Cabraham1" /></p>
+  
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
 <a target="_blank"
