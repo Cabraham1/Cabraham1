@@ -4,6 +4,12 @@ I have a strong JavaScript skillset with a focus on React & Ruby. I have always 
   
 A little more about me...
 
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Cabraham1&style=plastic&color=red&label=PROFILE+VIEWS)
+
+<br/>
+
 ```javascript
 const abrahamChristopher= {
   openTowork: true,
@@ -18,9 +24,13 @@ const abrahamChristopher= {
 }
 ```
 
-<h3 align="center">GitHub Statistics:</h3>
+<br/>
 
-| <a href="https://github.com/Cabraham1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cabraham1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cabraham's github stats" /></a> | <a href="https://github.com/Cabraham1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabraham1&layout=compact&theme=buefy&hide_border=true" /></a> |
+## My Github stats card <img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="40">:
+| <a href="https://github.com/Cabraham1/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cabraham1&count_private=true&show_icons=true&include_all_commits=true&theme=moltack&border_radius=10" alt="Favour's github stats" /></a> | <a href="https://github.com/Cabraham1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabraham1&layout=compact&theme=moltack&border_radius=10&card_width=280" /></a> | 
+| ------------- | ------------- |
+
+<br/>
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cabraham1&theme=radical" alt="Cabraham1" /></p>
