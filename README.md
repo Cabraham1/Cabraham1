@@ -1,5 +1,5 @@
 <h2> My name is Christopher Abraham! 👋 👩🏾‍💻</h2>
-<p><em>a well-rounded individual with strong JavaScript abilities, specifically in React and Ruby. I have a proven track record of staying current with new technologies and have the ability to quickly adapt to new concepts and ideas. I have 3+ years of experience in designing, developing, coding, and maintaining web applications.</em></p>
+<p><em>A well-rounded individual with strong JavaScript abilities, specifically in React and Ruby. I have a proven track record of staying current with new technologies and have the ability to quickly adapt to new concepts and ideas. I have 3+ years of experience in designing, developing, coding, and maintaining web applications.</em></p>
 
 <br/>
 
