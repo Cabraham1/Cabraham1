@@ -1,8 +1,5 @@
-<h2> Hi, I'm Christopher Abraham! 👋 👩🏾‍💻</h2>
-<p><em>A multifaceted Asset Ready to Meet Your Team
-I have a strong JavaScript skillset with a focus on React & Ruby. I have always stayed relevant while embracing new technologies. I can quickly learn new ideas and trends in technology. My background is in Web Applications with over 3 years of experience of designing, developing, coding and maintaining such systems.
-  
-A little more about me...
+<h2> My name is Christopher Abraham! 👋 👩🏾‍💻</h2>
+<p><em>A well-rounded individual with strong JavaScript abilities, specifically in React and Ruby. I have a proven track record of staying current with new technologies and have the ability to quickly adapt to new concepts and ideas. I have 3+ years of experience in designing, developing, coding, and maintaining web applications.</em></p>
 
 <br/>
 
@@ -28,10 +25,9 @@ const abrahamChristopher= {
 
 ## My Github stats card <img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="40">:
 | <a href="https://github.com/Cabraham1/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cabraham1&count_private=true&show_icons=true&include_all_commits=true&theme=moltack&border_radius=10" alt="Favour's github stats" /></a> | <a href="https://github.com/Cabraham1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabraham1&layout=compact&theme=moltack&border_radius=10&card_width=280" /></a> | 
-| ------------- | ------------- |
+
 
 <br/>
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cabraham1&theme=radical" alt="Cabraham1" /></p>
   
