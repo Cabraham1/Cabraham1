@@ -1,13 +1,13 @@
 <h2> Hi, I'm Abraham Christopher! 👋 👩🏾‍💻 <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>A well-rounded individual with strong JavaScript abilities, specifically in React and Ruby. I have a proven track record of staying current with new technologies and have the ability to quickly adapt to new concepts and ideas. I have 3+ years of experience in designing, developing, coding, and maintaining web applications.
+<p><em>A well-rounded individual with strong JavaScript abilities, specifically in React, Nextjs, and TypeScript. I have a proven track record of staying current with new technologies and have the ability to quickly adapt to new concepts and ideas. I have 3+ years of experience in designing, developing, coding, and maintaining web applications.
   
 A little more about me...
 
 ```javascript
 const AbrahamChristopher = {
   openTowork: true,
-  lookingFor: "Front-End developer" || "UI/UX designer",
-  pronouns: ["he", "his"],
+  lookingFor: "Front-End developer",
+  pronouns: ["he", "him"],
   languagesAndTools: [Ruby, PostgreSQL, Typescript, JavaScript, React, Redux, HTML/CSS, Semantic UI, Bootstrap,
   Tailwind CSS],
   askMeAbout: [Football, Movies],
