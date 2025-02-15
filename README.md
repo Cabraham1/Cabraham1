@@ -17,6 +17,8 @@ const AbrahamChristopher = {
 }
 ```
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cabraham1&label=Profile%20views&color=0e75b6&style=flat" alt="theblvckdev" /> </p> 
+
 <h3 align="center">GitHub Statistics:</h3>
 
 | <a href="https://github.com/cabraham1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cabraham1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="cabraham's github stats" /></a> | <a href="https://github.com/cabraham1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabraham1&layout=compact&theme=buefy&hide_border=true" /></a> |
